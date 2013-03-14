@@ -1,0 +1,51 @@
+﻿html, body, #form1 {
+  height: 100%;
+  margin: 0;
+  
+}
+body
+{
+    background-image:url('bg.jpg');
+}
+#map{
+  height: 100%;
+  margin: 0;
+  width: 77%;
+  float:right;
+}
+#mapinfo
+{
+width:22%;
+height: 100%;
+float:left;
+padding-left:1%;
+color:#fff;
+font-size:20px;
+}
+#Button1
+{
+    border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    float:right;
+    margin-right:10%;
+}
+#TextBox1
+{
+    width:90%;
+    margin-left:3%;
+    margin-right:3%;
+}
+.connect
+{
+    margin-left:auto;
+    margin-right:auto;
+    color:#fff;
+    font-size:25px;
+    font-weight:bold;
+    line-height:35px;
+}
+#ImageButton1
+{
+    border-radius:10px;
+}
